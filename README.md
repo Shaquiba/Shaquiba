@@ -40,7 +40,7 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 #### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaquiba&theme=dracula&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaquiba&theme=tokyo-night&area=true&hide_border=true&color=A970FF" width="100%" />
 </p>
 
 ---
