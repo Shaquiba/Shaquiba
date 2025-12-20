@@ -1,9 +1,9 @@
 <div align="center">
 
-# 💫 Hi there, I'm Shaquiba Naaz
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
+# 💫 Hi there, I'm Shaquiba Naaz👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Frontend%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Three.js+Explorer;ReactJS+%26+Tailwind+Expert;C%2FC%2B%2B+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Frontend+Developer;Three.js+Explorer;ReactJS+%26+Tailwind+Enthusiast;C%2FC%2B%2B+Programmer" alt="Typing SVG" />
 
 ---
 
