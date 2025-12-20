@@ -2,7 +2,7 @@
 
  # 💫 Welcome to my Digital Space
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,80ed99,5f27cd&height=250&section=header&text=Shaquiba%20Naaz&fontSize=60&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20|%203D%20Web%20Explorer&descSize=20&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,80ed99,5f27cd&height=250&section=header&text=Shaquiba%20Naaz&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Frontend%20Developer%20|%203D%20Web%20Explorer&descSize=20&descAlignY=60" width="100%" />
 
 
 <br/>
