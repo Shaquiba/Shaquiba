@@ -1,41 +1,44 @@
 <div align="center">
 
-# Hi there, I'm Shaquiba Naaz 👋
+# 💫 Hi there, I'm Shaquiba Naaz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=Full%20Stack%20Developer&fontSize=50&animation=fadeIn&fontAlignY=38" width="100%" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=BTech+CSE+Student;Web+Developer;ReactJS+%26+Tailwind+Enthusiast;Learning+Three.js;Python+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Three.js+Explorer;ReactJS+%26+Tailwind+Expert;C%2FC%2B%2B+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
 
 ---
 
-### 💫 About Me
+### 👩‍💻 About Me
   
-I am a passionate developer focused on building beautiful and performant web applications.  
-Currently pursuing *BTech in Computer Science and Engineering* at *Netaji Subhash University*.
-
-🔭 *Learning:* Advanced Three.js for immersive 3D web experiences.  
-🌱 *Growing:* Always keen to learn new technologies and evolve as a developer.
+I am a creative developer building immersive 3D web experiences and robust applications.  
+🎓 *BTech CSE* @ Netaji Subhash University  
+✨ *Passionate about:* Creative Coding, UI/UX, and Scalable Systems.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Languages & Tools
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+<br>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Journey
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Shaquiba's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=tokyonight&hide_border=true" alt="Streak" height="170px" />
 </p>
+
+#### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaquiba&theme=tokyo-night&hide_border=true" width="100%" />
 
 ---
 
 ### 🤝 Connect with Me
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/shaquiba-naaz-9bb884323)
-[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />](shaquibakhan07@gmail.com)
+<a href="https://linkedin.com/in/shaquiba-naaz-9bb884323" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/NaazShaquiba" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+<a href="shaquibakhan07@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
-
 
