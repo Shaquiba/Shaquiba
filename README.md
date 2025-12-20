@@ -39,8 +39,9 @@ I am a creative developer building immersive 3D web experiences and robust appli
 </p>
 
 #### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaquiba&theme=tokyo-night&hide_border=true" width="100%" />
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaquiba&theme=dracula&hide_border=true&area=true" width="100%" />
+</p>
 
 ---
 
@@ -49,5 +50,9 @@ I am a creative developer building immersive 3D web experiences and robust appli
 <a href="https://x.com/NaazShaquiba" target="blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
 <a href="shaquibakhan07@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shaquiba&label=PROFILE+VIEWS&color=A970FF&style=for-the-badge&logo=github" alt="Shaquiba's Profile Views" />
+</p>
 </div>
 
