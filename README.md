@@ -1,11 +1,12 @@
 <div align="center">
 
-# 💫 Hi there, I'm Shaquiba Naaz👋
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Shaquiba%20Naaz&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Aspiring%20Software%20Engineer&descSize=20&descAlignY=60" width="100%" />
+ # 💫 Welcome to my Digital Space
+
+<img src="https://capsule-render.vercel.app/api?type=glass&color=auto&height=250&section=header&text=Shaquiba%20Naaz&fontSize=70&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20|%203D%20Web%20Explorer&descSize=20&descAlignY=60" width="100%" />
 
 <br/>
 
- <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Creative+Frontend+Dev;Three.js+Explorer;C%2B%2B+%2F+Python+Programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&pause=1000&color=A970FF&center=true&vCenter=true&width=500&lines=BTech+CSE+Student;Creative+Frontend+Dev;Three.js+Explorer;ReactJS+%26+Tailwind+Expert" alt="Typing SVG" />
 
 ---
 
