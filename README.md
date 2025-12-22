@@ -46,7 +46,11 @@ I am a creative developer building immersive 3D web experiences and robust appli
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170px" />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=tokyonight&hide_border=true" alt="Streak" height="170px" />
+  <h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShaquibaNaaz&theme=radical&hide_border=true" />
+</p>
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=radical&hide_border=true&title_color=A970FF&icon_color=61DAFB&text_color=ffffff" alt="Most Used Languages" height="170px" />
