@@ -52,7 +52,6 @@ I am a creative developer building immersive 3D web experiences and robust appli
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=radical&hide_border=true" />
 </p>
 
-<h2 align ="center"> Languages used</h2>
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=radical&hide_border=true&title_color=A970FF&icon_color=61DAFB&text_color=ffffff" alt="Most Used Languages" height="170px" />
 </p>
