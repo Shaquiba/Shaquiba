@@ -40,28 +40,20 @@ I am a creative developer building immersive 3D web experiences and robust appli
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 ---
-
 <h2 align="center">📊 My GitHub Journey</h2>
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shaquiba&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=shaquiba&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaquiba&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
+      <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaquiba&theme=tokyo-night" width="100%" />
-</p>
+
 
   <h2 align="center">🔥 GitHub Streak</h2>
 
