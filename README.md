@@ -45,10 +45,10 @@ I am a creative developer building immersive 3D web experiences and robust appli
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shaquiba&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shaquiba&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=shaquiba&theme=tokyonight" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=Shaquiba&theme=tokyonight" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
@@ -56,6 +56,8 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 
   <h2 align="center">🔥 GitHub Streak</h2>
+
+  ![Github Streak](https://streaks-stats.demolab.com?user=Shaquiba&theme=dark)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=radical&hide_border=true" />
