@@ -59,7 +59,7 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaquiba&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Shaquiba&theme=tokyonight&hide_border=false)](https://git.io/streak-stats&v=1)
 
 </div>
 
