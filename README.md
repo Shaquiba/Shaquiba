@@ -57,8 +57,6 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
   <h2 align="center">🔥 GitHub Streak</h2>
 
-  ![Github Streak](https://streaks-stats.demolab.com?user=Shaquiba&theme=dark)
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=radical&hide_border=true" />
 </p>
