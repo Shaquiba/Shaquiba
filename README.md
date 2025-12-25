@@ -41,10 +41,30 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 ---
 
-### 📊 My GitHub Journey
+<h2 align="center">📊 My GitHub Journey</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_langs_below=1" alt="Top Languages" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_STAR_REPO&theme=tokyonight" alt="Top Repo" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="170px" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" width="100%" />
+</p>
 
   <h2 align="center">🔥 GitHub Streak</h2>
 
