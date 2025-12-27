@@ -40,24 +40,18 @@ I am a creative developer building immersive 3D web experiences and robust appli
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
 ---
-<h2 align="center">📊 My GitHub Journey</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Shaquiba&theme=radical" alt="GitHub Streak" />
-</p>
+## 📊 My GitHub Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-
-
-  <div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=dark)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ GitHub Streak Stats
-[![Shaquiba's GitHub Streak](https://streak-stats.demolab.com/?user=Shaquiba&theme=tokyonight&cache=1)](https://git.io/streak-stats)
 
-</div>
+[![Shaquiba's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=radical&hide_border=true&title_color=A970FF&icon_color=61DAFB&text_color=ffffff" alt="Most Used Languages" height="170px" />
 </p>
