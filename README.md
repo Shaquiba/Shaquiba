@@ -42,16 +42,13 @@ I am a creative developer building immersive 3D web experiences and robust appli
 ---
 <h2 align="center">📊 My GitHub Journey</h2>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shaquiba&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://streak-stats.demolab.com/?user=Shaquiba&theme=tokyonight" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Shaquiba&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
 
 
