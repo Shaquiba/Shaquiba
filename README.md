@@ -52,10 +52,7 @@ I am a creative developer building immersive 3D web experiences and robust appli
 [![Shaquiba's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=radical&hide_border=true&title_color=A970FF&icon_color=61DAFB&text_color=ffffff" alt="Most Used Languages" height="170px" />
-</p>
-</p>
+ 
 
 #### 📈 Contribution Graph
 <p align="center">
