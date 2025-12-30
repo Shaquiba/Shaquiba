@@ -54,8 +54,8 @@ I am a creative developer building immersive 3D web experiences and robust appli
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Shaquiba]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Shaquiba]&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
  ---
 
