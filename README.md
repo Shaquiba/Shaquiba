@@ -72,3 +72,8 @@ I am a creative developer building immersive 3D web experiences and robust appli
 </p>
 </div>
 
+---
+
+### 💬 Quote of the Day
+![Quote of the Day](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
