@@ -51,8 +51,13 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 
- 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+ ---
 
 #### 📈 Contribution Graph
 <p align="center">
