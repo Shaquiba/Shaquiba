@@ -42,23 +42,15 @@ I am a creative developer building immersive 3D web experiences and robust appli
 ---
 <div align="center">
 
-## 📊 My GitHub Journey
 
-# 📊 GitHub Stats:
+
+## ⚡ GitHub Streak Stats
 ![](https://github-readme-stats.vercel.app/api?username=Shaquiba&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Shaquiba&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=dark)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shaquiba&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## ⚡ GitHub Streak Stats
-
-[![Shaquiba's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shaquiba&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shaquiba&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
