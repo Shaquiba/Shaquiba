@@ -74,7 +74,5 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 ---
 
-### ✍️ Random Quote
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9FE&center=false&vCenter=false&width=435&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Focus+on+the+process+not+the+outcome.;Code+is+poetry.;Stay+hungry+Stay+foolish." alt="Typing SVG" />
-</p>
+### 💬 Thought of the Day
+[![ReadMe Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/shravan2x/quotes-github-readme)
