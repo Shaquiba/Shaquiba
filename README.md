@@ -74,7 +74,5 @@ I am a creative developer building immersive 3D web experiences and robust appli
 
 ---
 
----
-
 ### 🤖 Tech Logic
 ![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Programming+is+10%25+writing+code+and+90%25+understanding+why+it+doesn't+work.)
